@@ -22,3 +22,7 @@ function giraffe(){
     document.getElementById("sound_animals").src="giraffe.m4a";
     document.getElementById("sound_animals").play();
 }
+
+function back(){
+    window.location = "index.html";
+}
