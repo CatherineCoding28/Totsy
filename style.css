@@ -19,24 +19,9 @@
     border-radius: 50px;
 }
 
-#animal_pic{
-    height: 500px;
-    width: 500px;
-}
-
-#fruits_pic{
-    height: 500px;
-    width: 500px;
-}
-
-#toys_pic{
-    height: 500px;
-    width: 500px;
-}
-
-#colors_pic{
-    height: 500px;
-    width: 500px;
+#animal_pic, #fruits_pic, #toys_pic, #colors_pic{
+    height: 300px;
+    width: 300px;
 }
 
 .btn3{
@@ -51,4 +36,9 @@
     width: 100px;
     margin: 30px;
     border-radius: 50px;
+}
+
+.btn5{
+    height: 30px;
+    align-self: first baseline;
 }
