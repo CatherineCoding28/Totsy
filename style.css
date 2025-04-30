@@ -20,8 +20,8 @@
 }
 
 #animal_pic, #fruits_pic, #toys_pic, #colors_pic{
-    height: 300px;
-    width: 300px;
+    height: 150px;
+    width: 150px;
 }
 
 .btn3{
