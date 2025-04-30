@@ -4,3 +4,7 @@ function fun_toys(name,pic,sound){
     document.getElementById("sound_toys").src=sound;
     document.getElementById("sound_toys").play();
 }
+
+function back(){
+    window.location = "index.html";
+}
