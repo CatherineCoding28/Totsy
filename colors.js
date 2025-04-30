@@ -4,3 +4,7 @@ function fun_colors(name,pic,sound){
     document.getElementById("sound_colors").src=sound;
     document.getElementById("sound_colors").play();
 }
+
+function back(){
+    window.location = "index.html";
+}
